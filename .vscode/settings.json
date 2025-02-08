@@ -1,0 +1,26 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/sghatak5/ros2_ws/install/quadmotor_drone/lib/python3.10/site-packages",
+        "/home/sghatak5/dev_ws/install/my_robot_controller/lib/python3.10/site-packages",
+        "/home/sghatak5/ros2_ws/build/px4vision_localization",
+        "/home/sghatak5/ros2_ws/install/px4vision_localization/lib/python3.10/site-packages",
+        "/home/sghatak5/ros2_ws/build/px4vision_controller",
+        "/home/sghatak5/ros2_ws/install/px4vision_controller/lib/python3.10/site-packages",
+        "/home/sghatak5/ros2_ws/install/px4_ros_com/local/lib/python3.10/dist-packages",
+        "/home/sghatak5/ros2_ws/install/px4_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/sghatak5/ros2_ws/install/quadmotor_drone/lib/python3.10/site-packages",
+        "/home/sghatak5/dev_ws/install/my_robot_controller/lib/python3.10/site-packages",
+        "/home/sghatak5/ros2_ws/build/px4vision_localization",
+        "/home/sghatak5/ros2_ws/install/px4vision_localization/lib/python3.10/site-packages",
+        "/home/sghatak5/ros2_ws/build/px4vision_controller",
+        "/home/sghatak5/ros2_ws/install/px4vision_controller/lib/python3.10/site-packages",
+        "/home/sghatak5/ros2_ws/install/px4_ros_com/local/lib/python3.10/dist-packages",
+        "/home/sghatak5/ros2_ws/install/px4_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
